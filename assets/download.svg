@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 58" width="340" height="58" role="img" aria-label="Скачать для Windows">
+  <title>Скачать для Windows</title>
+  <rect x="1" y="1" width="338" height="56" rx="13" fill="#FFB020"/>
+  <rect x="1" y="1" width="338" height="56" rx="13" fill="none" stroke="#FFC760" stroke-width="1"/>
+  <g stroke="#0B0E14" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 18 v15"/>
+    <path d="M27 27 l7 7 7-7"/>
+    <path d="M25 41 h18"/>
+  </g>
+  <text x="66" y="37" font-family="ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B0E14">Скачать для Windows</text>
+</svg>
